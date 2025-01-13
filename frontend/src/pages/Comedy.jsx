@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import MovieCard from '../components/MovieCardSearch';
-import { getComedy } from '../../../backend/services/api';
+import { getComedy } from '../services/api'
 import FetchHooks from '../hooks/FetchHooks'; 
 
 function Comedy() {

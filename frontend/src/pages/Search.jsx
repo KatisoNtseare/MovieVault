@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { ImSearch } from 'react-icons/im';
-import { searchMovies, searchShows } from '../../../backend/services/api';
+import { searchMovies, searchShows } from '../services/api'
 import MovieCard from '../components/MovieCardSearch';
 import TvShowCard from '../components/TvShowCardSearch';
 

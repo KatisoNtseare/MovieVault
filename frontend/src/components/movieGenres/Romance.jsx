@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import MovieCard from '../MovieCard';
-import { getRomance } from '../../../../backend/services/api';
+import { getRomance } from '../../services/api';
 import FetchHooks from '../../hooks/FetchHooks';
 import ScrollButtons from '../useHorizontalScroll';  
 

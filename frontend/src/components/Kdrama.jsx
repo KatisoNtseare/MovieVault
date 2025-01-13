@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import TvCard from './TvCard';
-import { getKdrama } from '../../../backend/services/api';
+import { getKdrama } from '../services/api';
 import FetchHooks from '../hooks/FetchHooks';
 import ScrollButtons from './useHorizontalScroll';
 

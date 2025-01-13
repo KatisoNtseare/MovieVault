@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import MovieCard from '../components/MovieCardSearch';
-import { getAllMovies } from '../../../backend/services/api';
+import { getAllMovies } from '../services/api'
 import FetchHooks from '../hooks/FetchHooks'; 
 
 function Movies() {

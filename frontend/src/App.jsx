@@ -21,6 +21,7 @@ import Movies2024 from './pages/2024';
 import Movies2023 from './pages/2023';
 import Movies2022 from './pages/2022';
 import Movies2021 from './pages/2021';
+import TermsAndConditions from './pages/TnC';
 
 function App() {
   return ( 
@@ -45,6 +46,7 @@ function App() {
         <Route path='/Movies2023' element={<Movies2023 />} />
         <Route path='/Movies2022' element={<Movies2022 />} />
         <Route path='/Movies2021' element={<Movies2021 />} />
+        <Route path='/TermsAndConditions' element={<TermsAndConditions />}/>
       </Routes>
       <Footer />
     </BrowserRouter>   

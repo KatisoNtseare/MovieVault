@@ -2,9 +2,7 @@ import { Link, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 
 function Footer() {
-  const location = useLocation();
-
-  // Scroll to the top when the location changes
+  const location = useLocation(); 
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [location]);
@@ -50,7 +48,7 @@ function Footer() {
       </div>
       <p>© 2025 MovieVault. All rights reserved. 
         <br></br>By using this site, you agree to our
-        <Link to="/top-picks">Terms of Service</Link>
+        <Link to="/TermsAndConditions">Terms of Service</Link>
       </p>
     </footer>
   );

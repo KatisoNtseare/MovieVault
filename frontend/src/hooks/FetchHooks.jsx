@@ -20,7 +20,7 @@ const FetchHooks = (apiCall) => {
       }
     };
     fetchData();
-  }, [apiCall]); // The hook will re-run if the apiCall changes
+  }, [apiCall]);  
 
   return { data, error, loading };
 };

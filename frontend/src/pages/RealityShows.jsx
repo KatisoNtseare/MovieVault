@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import MovieCard from '../components/MovieCardSearch';
-import { getReality } from '../../../backend/services/api';
+import { getReality } from '../services/api'
 import FetchHooks from '../hooks/FetchHooks'; 
 
 function RealityShows() {

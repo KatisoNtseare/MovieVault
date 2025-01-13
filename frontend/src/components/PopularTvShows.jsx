@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import TvCard from './TvCard';
-import { getTrendingShows } from '../../../backend/services/api';
+import { getTrendingShows } from '../services/api';
 import FetchHooks from '../hooks/FetchHooks';
 import ScrollButtons from './useHorizontalScroll';
 

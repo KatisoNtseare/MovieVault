@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import MovieCard from '../components/MovieCardSearch';
-import { getAction } from '../../../backend/services/api';
+import { getAction } from '../services/api'
 import FetchHooks from '../hooks/FetchHooks'; 
 
 function Action() {

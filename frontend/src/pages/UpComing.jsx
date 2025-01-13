@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import MovieCard from '../components/MovieCardSearch';
-import { getUpComming } from '../../../backend/services/api';
+import { getUpComming } from '../services/api'
 import FetchHooks from '../hooks/FetchHooks'; 
 
 function UpComing() {

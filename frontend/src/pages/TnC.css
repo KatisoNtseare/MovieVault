@@ -1,0 +1,300 @@
+
+ 
+  @media (min-width: 300px) and (max-width: 639px) {
+    .tnc-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: white; 
+        padding-top: 50px;
+      }
+      
+      .tnc-container h1 {
+        text-align: center;
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+      }
+      
+      .tnc-container h2 {
+        font-size: 1.8rem;
+        margin-top: 20px;
+        color: white; 
+      }
+      
+      .tnc-container h3 {
+        font-size: 1.5rem;
+        margin-top: 10px;
+      }
+      
+      .tnc-container p, .tnc-container ul {
+        font-size: 1rem;
+        color: #555;
+      }
+      
+      .tnc-container ul {
+        padding-left: 20px;
+      }
+      
+      .tnc-container li {
+        margin-bottom: 5px;
+      }
+      
+      .tnc-container a {
+        color: #0066cc;
+        text-decoration: none;
+      }
+      
+      .tnc-container a:hover {
+        text-decoration: underline;
+      }
+      
+      .tnc-container .effective-date {
+        font-style: italic;
+        margin-bottom: 20px;
+      }
+      
+      .tnc-container section {
+        margin-bottom: 30px;
+      }
+  }
+  
+
+  @media (min-width: 640px) and (max-width: 766px) {
+    .tnc-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: white; 
+        padding-top: 50px;
+      }
+      
+      .tnc-container h1 {
+        text-align: center;
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+      }
+      
+      .tnc-container h2 {
+        font-size: 1.8rem;
+        margin-top: 20px;
+        color: white; 
+      }
+      
+      .tnc-container h3 {
+        font-size: 1.5rem;
+        margin-top: 10px;
+      }
+      
+      .tnc-container p, .tnc-container ul {
+        font-size: 1rem;
+        color: #555;
+      }
+      
+      .tnc-container ul {
+        padding-left: 20px;
+      }
+      
+      .tnc-container li {
+        margin-bottom: 5px;
+      }
+      
+      .tnc-container a {
+        color: #0066cc;
+        text-decoration: none;
+      }
+      
+      .tnc-container a:hover {
+        text-decoration: underline;
+      }
+      
+      .tnc-container .effective-date {
+        font-style: italic;
+        margin-bottom: 20px;
+      }
+      
+      .tnc-container section {
+        margin-bottom: 30px;
+      }
+  }
+
+  @media (min-width: 767px) and (max-width: 1022px) {
+    .tnc-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: white; 
+        padding-top: 50px;
+      }
+      
+      .tnc-container h1 {
+        text-align: center;
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+      }
+      
+      .tnc-container h2 {
+        font-size: 1.8rem;
+        margin-top: 20px;
+        color: white; 
+      }
+      
+      .tnc-container h3 {
+        font-size: 1.5rem;
+        margin-top: 10px;
+      }
+      
+      .tnc-container p, .tnc-container ul {
+        font-size: 1rem;
+        color: #555;
+      }
+      
+      .tnc-container ul {
+        padding-left: 20px;
+      }
+      
+      .tnc-container li {
+        margin-bottom: 5px;
+      }
+      
+      .tnc-container a {
+        color: #0066cc;
+        text-decoration: none;
+      }
+      
+      .tnc-container a:hover {
+        text-decoration: underline;
+      }
+      
+      .tnc-container .effective-date {
+        font-style: italic;
+        margin-bottom: 20px;
+      }
+      
+      .tnc-container section {
+        margin-bottom: 30px;
+      }
+  }
+  @media (min-width: 1023px) and (max-width: 1279px) {
+    .tnc-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: white; 
+        padding-top: 50px;
+      }
+      
+      .tnc-container h1 {
+        text-align: center;
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+      }
+      
+      .tnc-container h2 {
+        font-size: 1.8rem;
+        margin-top: 20px;
+        color: white; 
+      }
+      
+      .tnc-container h3 {
+        font-size: 1.5rem;
+        margin-top: 10px;
+      }
+      
+      .tnc-container p, .tnc-container ul {
+        font-size: 1rem;
+        color: #555;
+      }
+      
+      .tnc-container ul {
+        padding-left: 20px;
+      }
+      
+      .tnc-container li {
+        margin-bottom: 5px;
+      }
+      
+      .tnc-container a {
+        color: #0066cc;
+        text-decoration: none;
+      }
+      
+      .tnc-container a:hover {
+        text-decoration: underline;
+      }
+      
+      .tnc-container .effective-date {
+        font-style: italic;
+        margin-bottom: 20px;
+      }
+      
+      .tnc-container section {
+        margin-bottom: 30px;
+      }
+  }
+  @media (min-width: 1280px) {
+    .tnc-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: white; 
+        padding-top: 80px;
+      }
+      
+      .tnc-container h1 {
+        text-align: center;
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+      }
+      
+      .tnc-container h2 {
+        font-size: 1.8rem;
+        margin-top: 20px;
+        color: white; 
+      }
+      
+      .tnc-container h3 {
+        font-size: 1.5rem;
+        margin-top: 10px;
+      }
+      
+      .tnc-container p, .tnc-container ul {
+        font-size: 1rem;
+        color: #555;
+      }
+      
+      .tnc-container ul {
+        padding-left: 20px;
+      }
+      
+      .tnc-container li {
+        margin-bottom: 5px;
+      }
+      
+      .tnc-container a {
+        color: #0066cc;
+        text-decoration: none;
+      }
+      
+      .tnc-container a:hover {
+        text-decoration: underline;
+      }
+      
+      .tnc-container .effective-date {
+        font-style: italic;
+        margin-bottom: 20px;
+      }
+      
+      .tnc-container section {
+        margin-bottom: 30px;
+      }
+  }
